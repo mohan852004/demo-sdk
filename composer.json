@@ -1,0 +1,21 @@
+{
+    "name": "mohan852004/demo-sdk",
+    "description": "A demo SDK module for PHP.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "DemoSdk\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohanraj R",
+            "email": "mohanraj.r@malinator.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
